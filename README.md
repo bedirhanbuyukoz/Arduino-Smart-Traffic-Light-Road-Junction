@@ -4,6 +4,7 @@
 
 
 https://user-images.githubusercontent.com/53793285/147061485-50186ce7-a64d-40eb-b606-640c68243ede.mp4
+
 ![Arduino Smart Traffic Light](https://user-images.githubusercontent.com/53793285/147062042-9af98fd1-7100-42b2-a27a-dc263b67ed8e.png)
 
 ![118708903_320980365684738_4121178331966413857_n](https://user-images.githubusercontent.com/53793285/147061512-6de28c5c-6241-4d4d-8adb-0206372ca49a.jpg)
