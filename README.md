@@ -1,5 +1,22 @@
 # ArduinoProjects
 
+The goal of the project:
+• This project will be used at intersections.
+to produce smart traffic lights.
+• With this project, both pedestrians and vehicles
+Our first priority for safe passage
+to be sure.
+• Since I built the project with Arduino
+exactly what we want
+We can direct.
+• The security period is given importance in the system.
+and hence the livable accident rate
+I aim to lower it.
+
+
+Output of the Project:
+Smart intersection applications thanks to the simulator
+test environment will be provided before the application.
 
 
 
